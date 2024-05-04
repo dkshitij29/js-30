@@ -1,2 +1,5 @@
 # js-30
-This is a progress challange which i took on may 4.
+
+## Project - 1:
+It is a virtual drum kit, which can be used on any machine.
+

@@ -1,0 +1,33 @@
+.buttons {
+    text-align: center;
+    height: fit-content;
+}
+
+
+.my-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.my-button.clicked {
+    border-color: white; /* Border color when clicked */
+}
+
+
+body {
+    background-image: url('src/drum.jpeg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
