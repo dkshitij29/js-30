@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.blur {
+    filter: blur(0px); /* Initial blur level */
+}
+
+/* Apply border to the image */
+.image-with-border {
+    border: 0; /* Initial border width */
+    border-style: solid;
+    border-color: black;
+}
