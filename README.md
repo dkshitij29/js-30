@@ -17,3 +17,11 @@ Playing with CSS Variables and JS
 
 ***Improvements:***
 We can scale the image to fit all the screen sizes. The mobile view can be improved
+
+## Project 4:
+Learned about arrays and there functions
+
+## Project 3:
+learned about flex boxes 
+***Improvements:***
+ensure how to enable code to work on any image, and check why is the code not working with my images.
